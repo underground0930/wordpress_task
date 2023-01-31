@@ -46,11 +46,6 @@ $ npm run wp-restore <ファイル名>
 
 プロジェクトトップディレクトリの .node-version を参照
 
-## ■ ディレクトリ構成
-
-**src ディレクトリ以下を編集してください。**
-**htdocs ディレクトリ以下をデータが生成されます。**
-
 ## wordpress について
 
 - wp-env を使用しています
@@ -64,7 +59,4 @@ $ npm run wp-restore <ファイル名>
 - 「advanced-custom-fields-pro」は有料プラグインのため手動で格納してください。
 - 「all-in-one-wp-migration-unlimited-extension」は有料プラグインのため手動で格納してください。
 
-## PHP 型の書き方の参考
-
-https://docs.phpdoc.org/3.0/guide/references/phpdoc/types.html#definition-of-a-type
 
