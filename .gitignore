@@ -1,0 +1,6 @@
+# node_modules
+node_modules/
+
+# plugins
+wp-content/plugins/advanced-custom-fields-pro
+wp-content/plugins/all-in-one-wp-migration-unlimited-extension
